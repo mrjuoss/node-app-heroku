@@ -1,0 +1,23 @@
+{
+  "name": "app-heroku",
+  "version": "1.0.0",
+  "description": "Belajar Deploy Node JS Apllication on heroku",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrjuoss/node-app-heroku.git"
+  },
+  "keywords": [
+    "Nodejs",
+    "Heroku"
+  ],
+  "author": "mrjuoss@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mrjuoss/node-app-heroku/issues"
+  },
+  "homepage": "https://github.com/mrjuoss/node-app-heroku#readme"
+}
